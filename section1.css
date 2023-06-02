@@ -1,0 +1,147 @@
+.section0{
+    position: relative;
+    width: 100%;
+    height: 150vh;
+    background-color: rgb(14,16,23);
+    color: rgb(235,231,219);
+    }
+.section0T0{
+height: 50vh;
+}
+.section0T1{
+position: sticky;
+top:25%;
+left: 50%;
+width: 40%;
+font-size: 1.5rem;
+transform: translate(-50%,0);
+}
+.fade-in{
+  opacity: 1; /* 设置初始透明度为0 */
+  transition: opacity 1.5s; /* 设置透明度过渡的时间 */
+  -webkit-transition: opacity 1.5s;
+}
+.fade-in1{
+  opacity: 1; /* 设置初始透明度为0 */
+  transition: opacity 1.5s; /* 设置透明度过渡的时间 */
+  -webkit-transition: opacity 1.5s;
+}
+
+.section0T2{
+position: sticky;
+top: 50%;
+transform: translate(0,-50%);
+padding-left: 47%;
+}
+.section1{
+    position: sticky;
+    width: 100vw;
+    height: 900vh;
+    background-color: rgb(14,16,23);
+    font-size: 1.4rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(235,231,219)
+
+    }
+.section1T{
+    width: 100vw;
+    background-color:rgb(14,16,23);
+    }
+.section1T1a{
+  font-size: 1.4rem;
+}
+.section1Ta{
+  height: 40vh;
+}
+.section1T1{
+  width: 40vw;
+  position: sticky;
+  line-height: 1.4rem;
+  top: 15vh;
+  left: 30%;
+  transform: translate(-50%,0);
+  padding-bottom: 67.6vh;
+            }
+.section1T2{
+  top: 28vh;
+  padding-bottom: 46.6vh;
+            }
+.section1T3{
+  top: 49vh;
+  padding-bottom: 25.6vh
+            }
+.section1T4{
+  top: 64vh;
+  padding-bottom:3.4vh;
+            }
+.section1T6{
+  position: relative;
+  height: 160vh;
+  background-color: rgb(14,16,23);
+}
+.section1T6a{
+  position: absolute;
+  font-size: 1.4rem;
+  line-height: 2.2rem;
+  width: 40vw;
+  left: 50%;
+  transform: translate(-50%,0);
+}
+.blur-image{
+  filter: blur(0px);
+  transition: filter 0.5s;
+  z-index: 2;
+}
+.obvious1{
+  position:absolute;
+  width: 40vw;
+  height: 15vh;
+  top: 711.5%;
+  left: 50%;
+  transform: translate(-50%,0);
+  z-index: 999;
+}
+.obvious1a{
+  position: absolute;
+  font-size: 1.4rem;
+  left: 51%;
+  transform: translate(-50%,-50%);
+}
+.obvious1ak{
+  width: 30vw;
+  margin-left: 50%;
+  transform: translate(-50%,0);
+}
+.lss{
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  -webkit-transition: opacity 0.3s ease-in-out;
+}
+.obvious2{
+  top: 750%;
+  background-color: transparent;
+  box-shadow: 0 0 0 transparent;
+  border-radius: 0;
+}
+.obvious3{
+  top: 844%;
+}
+.obvious3a{
+  top: 880%;
+  position:absolute;
+  left: 50%;
+  transform: translate(-50%,0);
+  z-index: 999;
+}
+.obvious4{
+  position:sticky;
+  padding: 0;
+  background-color: transparent;
+  box-shadow: 0 0 0 transparent;
+  border-radius: 0;
+  top: 20%;
+  transform: translate(-75%,0);
+  left: 50%;
+}

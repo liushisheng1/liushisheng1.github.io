@@ -1,0 +1,69 @@
+.fade-in3{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition: opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in4{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition: opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in5{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition: opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in5a{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition: opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in10{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in11{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in12{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in13{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in14{
+    opacity: 1; /* 设置初始透明度为0 */
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in15{
+    opacity: 1; /* 设置初始透明度为0 */
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in16{
+    opacity: 1; /* 设置初始透明度为0 */
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in17{
+    opacity: 1; /* 设置初始透明度为0 */
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+  }
+  .fade-in18{
+    opacity: 1; /* 设置初始透明度为0 */
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+  }
+  .imagek{
+    transition:0.5s ease-in-out;
+    -webkit-transition:0.5s ease-in-out;
+  }

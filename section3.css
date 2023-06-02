@@ -1,0 +1,163 @@
+.section3{
+    position: relative;
+    height: 1800%;
+    width: 100vw;
+    background-color: rgb(14,16,23);
+    color: rgb(235,231,219)
+
+  }
+  .section3a{
+    position: relative;
+    width: 100vw;
+    height: 320vh;
+    background-image: url(./painting/section2before.jpg);
+    z-index: 9999;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+  .section3a1{
+    position: sticky;
+    top:0;
+  }
+  .section3a2{
+    position: relative;
+  
+  }
+  .section3a3{
+    opacity: 0;
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s;
+    position: absolute;
+  }
+  .section3a4{
+    opacity: 0;
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s;
+    position: absolute;
+  }
+  .section3a5{
+    opacity: 1;
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s;
+    position: absolute;
+    left: 30%;
+  }
+  .section3a6{
+    opacity: 0;
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s;
+    position: absolute;
+  }
+  .section3b{
+    width: 100vw;
+    height: 400vh;
+    background-image: url(./painting/women1.jpg);
+    background-repeat: no-repeat;
+      background-size: 40%;
+      background-position: 15%,30%;
+      background-attachment: fixed;
+    position: relative;
+  }
+  .section3b1{
+    position: sticky;
+    top: 12%;
+  }
+  .section3b1a{
+    position: relative;
+    transform: translateX(35%);
+  }
+  .section3b1f,.section3b1c,.section3b1d,.section3b1e,.section3b1g
+  {
+    opacity: 1;
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s;
+  }
+  .section3d{
+    height: 750vh;
+    position: relative;
+  }
+  .section3da{
+    position: sticky;
+    top: 10%;
+    padding: 0;
+    transform: translatey(5%);
+    margin: 0;
+  }
+  .section3d1{
+    position: relative;
+  }
+  .section3d1a{
+    width: 40vw;
+    height: fit-content;
+    color: black;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.939);
+    border-radius: 10px;
+    margin-left: 50%;
+    transform: translate(-50%,0);
+    padding: 25px;
+    font-size: 1.4rem;
+  }
+  .section3da2,.section3da3,.section3da4,.section3da5
+  {
+    position: absolute;
+    opacity: 1;
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s;
+    transform: translateX(15%);
+  }
+  .section3e{
+    position: relative;
+    width: 100vw;
+    height: 400vh;
+  }
+  .section3ea{
+    position: sticky;
+    top: 50vh;
+    font-size: 1.6rem;
+    width: fit-content;
+    text-align: center;
+    z-index: 9999;
+  }
+  .section3eb{
+    margin-left: -30%;
+   position: relative;
+   width: 100vw;
+   height: 100vh;
+  }
+  .ticket{
+  position: absolute;
+  top: -30vh;
+  transition: opacity 0.5s ease;
+  -webkit-transition: opacity 0.5s ease;
+  transform: translate(-20%,-20%);
+  }
+  .ticket2{
+  top: -30vh;
+  position: absolute;
+  transition: opacity 0.5s ease;
+  -webkit-transition: opacity 0.5s ease;
+  transform: translate(-20%,-20%);
+  }
+  .ticket3{
+    position: absolute;
+    top: -30vh;
+
+    transform: translate(-11%,-15%);
+    }
+    .ticket4{
+      position: absolute;
+      top: -30vh;
+      transform: translate(-11%,-15%);
+      }
+  
+  /* .fade-in2{
+    opacity: 0; 
+    transition: opacity 0.3s;
+  } */
+  .section4{
+    width: 100vw;
+    height: 400vh;
+    background-color:  rgb(14,16,23);
+  }

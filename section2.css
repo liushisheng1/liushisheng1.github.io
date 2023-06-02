@@ -1,0 +1,189 @@
+.section2{
+    position: relative;
+    width: 100%;
+    height: 2700%;
+    background-color:rgb(14,16,23);
+    font-family: 'f';
+    font-size: 1.2rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(235,231,219)
+}
+.section2a{
+  position: relative;
+  width: 100vw;
+  height: 400vh;
+}
+.fade-in3{
+  opacity: 0; /* 设置初始透明度为0 */
+  transition: opacity 0.3s; /* 设置透明度过渡的时间 */
+}
+.section2a1{
+  position: sticky;
+  top: 7%;
+  padding: 0;
+}
+.section2a1k{
+  position: relative;
+}
+.section2a1k1{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-10%);
+  padding: 0;
+  margin: 0;
+}
+.section2T0{
+  position: absolute;
+  padding-top: 60%;
+  left: 53%;
+}
+.section2T1{
+  position: relative;
+  margin-left: 6%;
+  width: 40vw;
+  font-size: 1.4rem;
+  line-height: 2.2rem;
+}
+.blur-image1{
+  filter: blur(0px);
+  transition: filter 0.5s;
+  -webkit-transition: filter 0.5s;
+  z-index: 2;
+}
+.section2T1a{
+  padding-top: 30vh;
+  font-size: 1.4rem;
+}
+.en2{
+  opacity: 1;
+  transition: opacity 0.5s;
+  -webkit-transition: opacity 0.5s;
+}
+.section2T1k{
+  position: sticky;
+  height: 120vh;
+  font-size: 2rem;
+  top: 15%;
+  padding-bottom: 100vh;
+  opacity: 0;
+  transition: opacity 0.5s;
+  -webkit-transition: opacity 0.5s;
+}
+.section2b{
+  padding: 0;
+  position: sticky;
+  top: 0%;
+  margin-top: 1000px;
+}
+.section2d{
+  position: relative;
+  background-color:rgb(14,16,23);
+  width: 100vw;
+  height: 380vh;
+}
+.section2d1{
+  position: relative;
+  width: 50vw;
+  margin-left: 30.5%;
+  transform: translate(-50%,0);
+  font-size: 1.4rem;
+}
+.section2d1a{
+  width: 40vw;
+}
+.section2d2{
+  position: sticky;
+  top: 15%;
+  transform: translateX(54%);
+}
+.section2e{
+  background-color:rgb(14,16,23);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100vw;
+  height: 300vh;
+  z-index: 99;
+}
+.section2e0{
+  height: 100vh;
+}
+.section2e1{
+  position: sticky;
+  font-size: 1.4rem;
+  padding-bottom: 80vh;
+  width: 35vw;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,0);
+}
+.section2ea{
+  height: 100vh;
+}
+.section2e2{
+  top: 30%;
+  padding-bottom: 0px;
+}
+.section2e3{
+  position: relative;
+  z-index: 9999;
+  margin-left: 0;
+  margin-top: 300px;
+}
+.section2eb{
+  height: 30vh;
+}
+.section2f{
+  width: 100vw;
+  height: 750vh;
+  position: relative;
+}
+.section2f0{
+  position: sticky;
+  top: 0;
+}
+.section2f0k{
+  position: relative;
+}
+.section2f1{
+  position: absolute;
+  top: 0;
+  margin-bottom: 20vh;
+}
+.section2fa,.section2fb,.section2fc,.section2fd,.section2fe{
+  opacity: 0; 
+  transition: opacity 0.7s; 
+  -webkit-transition: opacity 0.7s; 
+}
+.blur-image2{
+  filter: blur(0px);
+  transition: filter 0.5s;
+  -webkit-transition: filter 0.5s;
+  z-index: 2;
+}
+.blur-image3{
+  filter: blur(0px);
+  transition: filter 0.5s;
+  -webkit-transition: filter 0.5s;
+  z-index: 2;
+}
+.blur-image4{
+  filter: blur(0px);
+  transition: filter 0.5s;
+  -webkit-transition: filter 0.5s;
+  z-index: 2;
+}
+.blur-image5{
+  filter: blur(0px);
+  transition: filter 0.5s;
+  -webkit-transition: filter 0.5s;
+  z-index: 2;
+}
+.blur-image6{
+  filter: blur(0px);
+  transition: filter 1s;
+  -webkit-transition: filter 1s;
+  z-index: 2;
+}

@@ -1,0 +1,207 @@
+.section5{
+    color: rgb(64, 41, 28);
+    width: 100%;
+    height: 2000%;
+    background-color:rgb(254,245,237);
+  
+  }
+  .section5a{
+    position: relative;
+    width: 100vw;
+    height: 320vh;
+    background-image: url(./painting/section4before.jpg);
+    z-index: 9999;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .section5a1{
+    position: sticky;
+    top: 0;
+  }
+  .section5a2{
+    position: relative;
+  }
+  .section5a3{
+    position: absolute;
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+    -webkit-transition: opacity 0.5s; 
+  }
+  .section5a4{
+    position: absolute;
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+    -webkit-transition: opacity 0.5s; 
+  }
+  .section5a5{
+    position: absolute;
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+    -webkit-transition: opacity 0.5s; 
+  }
+  .section5a6{
+    position: absolute;
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+    -webkit-transition: opacity 0.5s; 
+  }
+  .section5a7{
+    position: absolute;
+    opacity: 1; /* 设置初始透明度为0 */
+    transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+    -webkit-transition: opacity 0.5s; 
+    right: -60%;
+  }
+  .section5b{
+    width: 100vw;
+    height: 200vh;
+    position: relative;
+    font-size: 1.6rem;
+  }
+  
+  .section5b1{
+    text-align: center;
+    margin-top: 30vh;
+    position: sticky;
+    top: 20%;
+    margin-left: 50%;
+    margin-bottom: 70vh;
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+    -webkit-transition: opacity 0.5s; 
+    transform: translate(-50%,0);
+  }
+  .section5b2{
+    text-align: center;
+    margin-top: 50vh;
+    margin-bottom: 50vh;
+    position: sticky;
+    top: 40%;
+    margin-left: 50%;
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+    -webkit-transition: opacity 0.5s; /* 设置透明度过渡的时间 */
+    transform: translate(-50%,0);
+  }
+  .section5c{
+    width: 100vw;
+    height: 200vh;
+    font-size: 1.6rem;
+    position: relative;
+  }
+  .section5c1{
+    left: 0;
+    position: sticky;
+    width: 30vw;
+    margin-left: 35%;
+    top: 50%;
+    margin-top: 150vh;
+    margin-bottom: 18vh;
+    transform: translate(0,-50%);
+    filter: blur(0px);
+  transition: filter 0.5s;
+  -webkit-transition: filter 0.5s;
+
+  }
+  .section5c12
+  {
+    position: relative;
+  }
+  .section5c13
+  {
+    position: absolute;
+  }
+  .section5c2{
+    position: relative;
+    margin-top: 15%;
+    transform: translateX(12%);
+  }
+  .section5d{
+    font-size: 1.6rem;
+    width: 100vw;
+    height: 400%;
+  }
+  .section5d1{
+    margin-top: 40vh;
+    position: sticky;
+    width: 33vw;
+    margin-left: 10%;
+    top: 50%;
+    margin-bottom: 137vh;
+    transform: translate(0,-50%);
+    opacity: 1;
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s;
+  }
+  .section5d2{
+    margin-top: 100vh;
+    position: relative;
+    width: 40vw;
+    margin-left: 52%;
+    font-size: 1.3rem;
+    line-height: 2rem;
+  }
+  .section5d3{
+    margin-left: 50%;
+    transform: translate(-50%,0);
+  }
+  .section5e{
+    width: 100vw;
+    height: 500vh;
+    position: relative;
+    background-color:rgb(254,245,237);
+  }
+  .section5e1{
+    position: sticky;
+    top: 20%;
+    padding-left: 7%;
+  }
+  .section5e1a{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition:opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .section5e1b{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition:opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .section5e1c{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition:opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .section5e1d{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition:opacity 0.3s; /* 设置透明度过渡的时间 */
+    padding-left: 5%;
+  }
+  .section5e1e{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition:opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .section5e1f{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition:opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .section5e1g{
+    opacity: 0; /* 设置初始透明度为0 */
+    transition: opacity 0.3s;
+    -webkit-transition:opacity 0.3s; /* 设置透明度过渡的时间 */
+  }
+  .section5f{
+    margin-top: 80vh;
+    margin-left: 50%;
+    transform: translate(-50%,0);
+    text-align: center;
+    font-size: 1.4rem;
+  }
+  .main{
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }

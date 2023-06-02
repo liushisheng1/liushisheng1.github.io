@@ -1,0 +1,7 @@
+.flourish-embed{
+position: relative;
+width: 60vw;
+z-index: 99999;
+margin-left: 50%;
+transform: translate(-50%,0);
+}
